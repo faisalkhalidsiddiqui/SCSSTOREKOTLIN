@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "691600052411",
+    "firebase_url": "https://appstorenotification-ee0ea.firebaseio.com",
+    "project_id": "appstorenotification-ee0ea",
+    "storage_bucket": "appstorenotification-ee0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691600052411:android:c0aaacbd4d10a1a8",
+        "android_client_info": {
+          "package_name": "ae.shjcoop.scsstoreandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691600052411-64cfo24l93p5bodvm5hd5jhkigp2sdbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wgy1JiFJTJqIMZZIGwBsbfNhXGonhjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
